@@ -1,0 +1,32 @@
+
+
+server:
+  port: 8090 
+
+
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost;databaseName=MovieDb
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    username: ozaytunctan
+    password: tunctan13
+  jpa:
+    database: sql-server
+    show-sql: true
+    database-platform: org.hibernate.dialect.SQLServer2012Dialect
+    hibernate:
+      ddl-auto: none
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+     
+
+     
+     
+movie:
+ prop:
+   api-key: 563ad9aa
+   omdb-id: tt3896198
+    
+#debug: true
+ 
+    
