@@ -15,10 +15,10 @@ public class Startup implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		Movie movie = new Movie();
-		movie.setId(0);
-		movie.setTitle("Batman Snipper");
-		this.movieRepository.saveAndFlush(movie);
+//		Movie movie = new Movie();
+//		movie.setId(0);
+//		movie.setTitle("Batman Snipper");
+//		this.movieRepository.saveAndFlush(movie);
 
 	}
 

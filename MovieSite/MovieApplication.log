@@ -98,3 +98,79 @@
 2019-05-25 19:34:30 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
 2019-05-25 19:35:11 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
 2019-05-25 19:35:11 INFO  MovieService:32 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 20:20:12 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-25 20:20:22 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-25 20:20:22 INFO  MovieService:41 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 20:28:28 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-25 20:28:49 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-25 20:28:49 INFO  MovieService:42 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 20:35:28 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-25 20:35:31 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-25 20:35:31 INFO  MovieService:42 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 20:45:20 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-25 20:45:39 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-25 20:45:55 INFO  MovieService:47 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 20:47:38 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-25 20:47:38 INFO  MovieService:47 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 20:59:30 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-25 20:59:42 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-25 20:59:42 INFO  MovieService:49 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 21:02:34 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-25 21:03:27 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-25 21:03:27 INFO  MovieService:49 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-25 21:06:18 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 00:44:02 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 00:53:12 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 00:53:21 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 00:53:21 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 00:54:46 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 00:54:46 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 00:56:27 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 00:56:27 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 00:59:31 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 00:59:40 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 00:59:40 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 00:59:42 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 00:59:42 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:00:43 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:02:47 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:02:47 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:02:49 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:02:49 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:07:20 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:09:38 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:09:38 INFO  MovieService:60 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:11:37 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:11:48 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:11:48 INFO  MovieService:60 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:14:16 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:14:24 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:14:24 INFO  MovieService:61 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:16:57 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:16:57 INFO  MovieService:61 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:19:43 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:19:47 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:19:47 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:19:47 INFO  MovieService:61 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:19:47 INFO  MovieService:61 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:22:38 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:22:47 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:22:47 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:26:31 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:26:38 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:26:38 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:30:42 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:30:45 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:30:45 INFO  MovieService:54 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 01:56:50 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 01:57:37 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 01:57:37 INFO  MovieService:55 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 02:04:53 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 02:05:01 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 02:05:01 INFO  MovieService:55 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 02:05:52 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Batman
+2019-05-26 02:05:52 INFO  MovieService:55 - MovieService.java-->findMoviesByTitle metod call title parameter=Batman
+2019-05-26 02:08:43 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Chip
+2019-05-26 02:08:43 INFO  MovieService:55 - MovieService.java-->findMoviesByTitle metod call title parameter=Chip
+2019-05-26 02:09:05 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Chip
+2019-05-26 02:09:05 INFO  MovieService:55 - MovieService.java-->findMoviesByTitle metod call title parameter=Chip

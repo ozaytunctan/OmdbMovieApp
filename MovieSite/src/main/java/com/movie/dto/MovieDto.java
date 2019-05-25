@@ -1,41 +1,22 @@
-package com.movie.model;
-
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.SequenceGenerator;
-import javax.persistence.Table;
+package com.movie.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-/**
- * Movie.class Film bilgilerinin tutulduğu entity sınıfıdır.
- * 
- * @author otunctan
- *
- */
-@SuppressWarnings("serial")
-@Entity
-@Table(name = "Movie")
-@SequenceGenerator(name = "idGenerator", initialValue = 1, allocationSize = 1, sequenceName = "SQ_Movie")
-public class Movie extends BaseEntity<Integer> {
+public class MovieDto {
 
-	@Column(name = "Title")
+	@JsonProperty("Title")
 	private String title;
-
-	@Column(name = "Yaer")
+	@JsonProperty("Year")
 	private String year;
-
-	@Column(name = "ImdbID")
+	@JsonProperty("imdbID")
 	private String imdbID;
-
-	@Column(name = "Type")
+	@JsonProperty("Type")
 	private String type;
-
-	@Column(name = "Poster")
+	@JsonProperty("Poster")
 	private String poster;
 
-	public Movie() {
-		setId(0);
+	public MovieDto() {
+		// TODO Auto-generated constructor stub
 	}
 
 	public String getTitle() {
@@ -77,7 +58,5 @@ public class Movie extends BaseEntity<Integer> {
 	public void setPoster(String poster) {
 		this.poster = poster;
 	}
-
-
 
 }

@@ -1,22 +1,24 @@
 package com.movie.properties;
 
-
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties(prefix="movie.prop")
+@ConfigurationProperties(prefix = "movie.prop")
 public class MovieProperties {
 
-	
-	
 	/**
 	 * OMDB api id value
 	 */
 	private String omdbId;
-	
+
 	/**
 	 * OMDB Api key value
 	 */
 	private String apiKey;
+
+	/**
+	 * OMDB web servis url 
+	 */
+	private String omdbBaseUrl;
 
 	public String getOmdbId() {
 		return omdbId;
@@ -33,7 +35,13 @@ public class MovieProperties {
 	public void setApiKey(String apiKey) {
 		this.apiKey = apiKey;
 	}
-	
-	
-	
+
+	public String getOmdbBaseUrl() {
+		return omdbBaseUrl;
+	}
+
+	public void setOmdbBaseUrl(String omdbBaseUrl) {
+		this.omdbBaseUrl = omdbBaseUrl;
+	}
+
 }
