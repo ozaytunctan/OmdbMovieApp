@@ -174,3 +174,15 @@
 2019-05-26 02:08:43 INFO  MovieService:55 - MovieService.java-->findMoviesByTitle metod call title parameter=Chip
 2019-05-26 02:09:05 INFO  MovieController:33 - MovieController.class-->findMoviesByTitle() metod call title param:Chip
 2019-05-26 02:09:05 INFO  MovieService:55 - MovieService.java-->findMoviesByTitle metod call title parameter=Chip
+2019-05-26 14:28:29 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 14:45:17 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 14:50:00 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 14:53:11 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 14:57:35 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 15:17:38 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 15:28:31 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 15:30:29 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 15:32:26 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 15:34:46 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 15:52:01 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
+2019-05-26 15:55:21 INFO  MovieSiteApplication:34 - >>>MOVIE SITE APPLICATION STARTED...>>>
