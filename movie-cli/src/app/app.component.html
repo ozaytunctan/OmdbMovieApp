@@ -1,13 +1,14 @@
-
 <div fxLayout="row">
-  <div fxLayout="column"  fxFlex="100%"  >
+  <div fxLayout="column" fxFlex="100%">
     <mat-form-field class="example-full-width">
-      <input matInput placeholder="Film Ara ..." aria-label="Film  Ara ..." [matAutocomplete]="auto" [formControl]="filmCtrl">
+      <input matInput placeholder="Film Ara ..." aria-label="Film  Ara ..." [matAutocomplete]="auto"
+        [formControl]="filmCtrl">
       <mat-autocomplete #auto="matAutocomplete" fxFlex="80%">
-        <mat-option *ngFor="let film of filteredFilms | async" [value]="film.name">
-          <img class="example-option-img" aria-hidden [src]="film.flag" height="25">
-          <span>{{film.name}}</span> |
-          <small>Population: {{film.population}}</small>
+        <mat-option *ngFor="let film of filteredFilms | async" [value]="film.title">
+          <img class="example-option-img" aria-hidden [src]="film.poster" height="25">
+          <span>{{film.title}}</span> |
+          <small>{{film.type}}</small>|
+          <span>{{film.year}}</span> |
         </mat-option>
       </mat-autocomplete>
     </mat-form-field>
